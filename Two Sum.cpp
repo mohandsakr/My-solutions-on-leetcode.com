@@ -2,6 +2,7 @@
 //problem link:https://leetcode.com/problems/add-two-numbers/
 //problem name:Two Sum
 //status:accept 
+//time complexity : o(n^2)
 
 
 class Solution {
