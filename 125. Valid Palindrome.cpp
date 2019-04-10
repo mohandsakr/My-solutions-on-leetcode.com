@@ -12,7 +12,7 @@ public:
         int len=s.length();
         string s3,s4;
         for(int i=0;i<len;i++){
-            if((s[i]>='A'&&s[i]<='Z')||(s[i]>='a'&&s[i]<='z'))
+            if((s[i]>='A'&&s[i]<='Z')||(s[i]>='a'&&s[i]<='z')||(s[i]>='0'&&s[i]<='9'))
                 s3+=tolower(s[i]);
         }
         cout<<s3<<endl;
