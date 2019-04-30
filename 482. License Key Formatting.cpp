@@ -27,7 +27,6 @@ public:
             if(!first &&count==mod&&mod){
                 first=1;
                 s2+='-';
-                ++count;
             }
             else if(i&&(abs(i-mod)%k==0)){
                 s2+='-';
@@ -35,6 +34,8 @@ public:
             
             
             s2+=s1[i];
+              ++count;
+
              
         }
         
