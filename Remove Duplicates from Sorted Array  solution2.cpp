@@ -3,7 +3,7 @@ problem link:https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 problem name:26. Remove Duplicates from Sorted Array
 status:accepted
 
-note this is  the first  way to solve this problem;
+note this is  the  second   way to solve this problem;
 */
 
  class Solution {
